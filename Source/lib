@@ -1,0 +1,5 @@
+tourch = 2.3.0
+!pip install -qU langchain-openai
+!pip install -U sentence-transformers
+%pip install --upgrade --quiet langchain langchain-community beautifulsoup4
+!pip install langgraph
